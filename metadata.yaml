@@ -1,9 +1,13 @@
 _repo: Lay-Down-Your-Arms-The-Autobiography-of-Martha-von-Tilling_49294
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Holmes, T.
     gutenberg_agent_id: '45246'
     url: http://www.gutenberg.org/2009/agents/45246
+covers:
+- cover_type: archival
+  image_path: 49294-h/images/cover.jpg
 creator:
   author:
     agent_name: Suttner, Bertha von
@@ -14,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7643
     wikipedia: http://en.wikipedia.org/wiki/Bertha_von_Suttner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49294#Lay-Down-Your-Arms-The-Autobiography-of-Martha-von-Tilling
 gutenberg_issued: '2015-06-27'
 gutenberg_type: Text
 identifiers:
